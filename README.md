@@ -52,4 +52,4 @@ plt.show() # zobrazíme graf
 
 # získame základné štatistiky o dátach pomocou funkcie describe z knižnice pandas
 print("Základné štatistiky:")
-print(df.describe()) # použijeme funkciu df.describe
+print(df.describe()) # použijeme funkciu df.describe.
